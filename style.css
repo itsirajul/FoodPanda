@@ -47,3 +47,7 @@ h1{
     padding-left: 3%;
     
 }
+/*1st section parts div class's anchor tag stylings */
+.set-width a{
+    margin-bottom: 100px;
+}
