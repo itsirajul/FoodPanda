@@ -56,3 +56,13 @@ h1{
     width: 70%;
     padding-left: 10%;
 }
+/* 2nd sections div id styling */
+
+#div-set-2{
+    width: 50%;
+    padding-left: 2%;
+    text-align: justify;
+    margin-right: 80px;
+    margin-left: 80px;
+    
+}
