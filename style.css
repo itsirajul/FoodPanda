@@ -71,3 +71,96 @@ h1{
     display:flex;
     margin-bottom: 120px;
 }
+/*2nd section parts div class stylings */
+.div-food-2{
+    display:flex;
+    background-image: url(../images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    margin-left: -5px;
+   
+}
+
+/* button styling */
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    background-image: linear-gradient(tomato,hotpink);
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-weight: 500;
+    
+}
+/* Our Recipe Section styling */
+#recipe-1{
+    text-align: center;
+    margin-top: 80px;
+    color: gray;
+}
+
+.recipe-para{
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+/* card section styling */
+.card-container{
+    box-sizing: border-box;
+    display:flex;
+}
+
+.card{
+    width: 500px;
+    margin: 30px;
+    box-sizing: border-box;
+    box-shadow: 10px 20px 30px gray;
+     border: 20px solid white;
+     border-radius: 30px;
+    background-color: white;
+
+}
+
+.img-style{
+    width: 100%;
+}
+/* card body styling */
+.card-body{
+    padding: 5px;
+    text-align: justify;
+    line-height: 1;
+}
+/* card title styling */
+.card-body .card-title{
+    text-align: center;
+
+}
+
+/* footer section */
+
+footer{
+    width: 100%;
+    border: 1px solid gray;
+    background-color: rgba(161, 14, 190, 0.952);
+    padding: 30px 50px;
+    margin-left: -2px;
+    margin-bottom: -5px;
+
+
+}
+/* footer title */
+.foot-title{
+    text-align: center;
+}
+/* footer span color */
+.footer-color{
+    color: rgb(236, 236, 231);
+}
+/* footer description */
+.footer-desc {
+    text-align: center;
+    
+}
+    
+    
