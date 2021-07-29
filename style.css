@@ -51,3 +51,8 @@ h1{
 .set-width a{
     margin-bottom: 100px;
 }
+/*1st section parts div class's image stylings */
+.set-width img{
+    width: 70%;
+    padding-left: 10%;
+}
