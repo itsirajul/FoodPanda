@@ -36,3 +36,8 @@ h1{
 .tomato-color{
     color: tomato;
 }
+/* section part container styling */
+.flexible-container{
+    display:flex;
+    margin-bottom: 150px;
+}
