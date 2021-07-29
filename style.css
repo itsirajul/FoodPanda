@@ -12,3 +12,9 @@ ul{
     margin: 0;
     margin-left: -5px;
 }
+/* navigation part list styling */
+.bar li{
+    box-sizing: border-box;
+    display: inline-block;
+}
+    
