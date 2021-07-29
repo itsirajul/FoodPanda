@@ -17,4 +17,22 @@ ul{
     box-sizing: border-box;
     display: inline-block;
 }
-    
+/* navigation part list anchor tag styling */
+
+.bar li a{
+    text-decoration: none;
+    color: rgb(221, 84, 175);
+    text-align: center;
+    display: inline-block;
+    padding: 30px 40px;
+    font-weight: 900;
+
+}
+/* header styling */
+h1{
+    font-size: 50px;
+}
+/* span part coloring */
+.tomato-color{
+    color: tomato;
+}
